@@ -1,5 +1,7 @@
 package org.example.entities;
 
+import org.example.enumeration.FishLivEnv;
+
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
