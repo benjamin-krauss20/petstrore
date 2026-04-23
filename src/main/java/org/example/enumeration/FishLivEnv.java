@@ -1,4 +1,5 @@
-package org.example;package /*org.example*/;
+package org.example.enumeration;
+
 
 public enum FishLivEnv {
     FRESH_WATER,
